@@ -1,0 +1,7 @@
+{
+  "esnext": true,
+  "-W041": false, // Use '===' to compare with 'null'.
+  "-W069": false, // Literal accessor is better written in dot notation
+  "predef": ["require", "module", "document"],
+  "node": true
+}
